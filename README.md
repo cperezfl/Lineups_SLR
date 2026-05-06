@@ -47,3 +47,6 @@ Para que la aplicación funcione correctamente y renderice todos los recursos vi
 * Framework Web: Streamlit
 * Análisis de Datos: Pandas
 * Visualización Interactiva: Plotly (Express)
+
+# Material suplementario
+Puedes visualizar el material suplementario en: https://github.com/cperezfl/complementario-lineups
