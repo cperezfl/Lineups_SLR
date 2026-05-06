@@ -289,4 +289,3 @@ elif pagina == "6. Material Suplementario":
         st.subheader("Repositorio de Código")
         st.info("Acceda al repositorio oficial en GitHub para revisar los notebooks y datos.")
         st.link_button("Ir al Repositorio GitHub", "https://github.com/cperezfl/complementario-lineups")
-        """)
